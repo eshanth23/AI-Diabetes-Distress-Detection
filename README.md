@@ -1,3 +1,6 @@
+<img width="480" height="371" alt="image" src="https://github.com/user-attachments/assets/da7c1043-28e9-4008-b799-e94dec94f9d3" />
+
+
 # 🧠 AI-Based Diabetes Distress Detection System  
 🏆 People’s Choice Winner – Paul English Applied AI Institute Fall Symposium 2025  
 
